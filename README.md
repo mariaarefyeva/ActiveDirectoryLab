@@ -8,13 +8,11 @@ This project was undertaken to gain practical experience with Active Directory, 
 <br />
 
 
-<h2>Languages and Utilities Used</h2>
+<h2>Tools and Utilities Used</h2>
 
-- <b>PowerShell</b> 
+- <b>PowerShell</b>
 - <b>Active Directory</b>
-
-<h2>Environments Used </h2>
-
+- <b>Virtual Box</b>
 - <b>Windows 10</b>
 
 <h2>Objectives </h2>
